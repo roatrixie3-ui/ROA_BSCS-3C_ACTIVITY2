@@ -79,7 +79,7 @@ st.markdown("<h1 class='title'>👨‍💻 ABOUT ME</h1>", unsafe_allow_html=Tru
 col1, col2 = st.columns([1,2])
 
 with col1:
-    image = Image.open("assets/ROA_PICTURE2.jpg")
+    image = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE2.jpg")
     st.image(image, use_container_width=True)
 
 with col2:
