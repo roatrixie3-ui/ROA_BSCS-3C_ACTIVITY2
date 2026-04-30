@@ -130,7 +130,7 @@ with col1:
     """, unsafe_allow_html=True)
 
 with col2:
-    st.image("assets/ROA_PICTURE1.jpg", width=320, caption="Novie Roa")
+    st.image("ROA_BSCS3C_ACT2/pages/ROA_PICTURE1.jpg", width=320, caption="Novie Roa")
 
 # ----------------------------
 # BUTTON
