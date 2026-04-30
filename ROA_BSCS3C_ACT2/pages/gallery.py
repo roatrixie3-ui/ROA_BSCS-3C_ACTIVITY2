@@ -82,7 +82,7 @@ st.divider()
 # ----------------------------
 # LOAD IMAGES
 # ----------------------------
-img1 = Image.open("assets/ROA_PICTURE1.jpg")
+img1 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE1.jpg")
 img2 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE2.jpg")
 img3 = Image.open("assets/ROA_PICTURE3.jpg")
 img4 = Image.open("assets/ROA_PICTURE4.jpg")
