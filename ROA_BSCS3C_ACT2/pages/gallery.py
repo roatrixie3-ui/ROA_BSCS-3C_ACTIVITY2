@@ -86,7 +86,7 @@ img1 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE1.jpg")
 img2 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE2.jpg")
 img3 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE3.jpg")
 img4 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE4.jpg")
-img5 = Image.open("assets/ROA_PICTURE5.jpg")
+img5 = Image.open("ROA_BSCS3C_ACT2/pages/ROA_PICTURE5.jpg")
 img6 = Image.open("assets/ROA_PICTURES6.jpg")  # FIXED
 
 # ----------------------------
